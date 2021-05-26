@@ -3,3 +3,4 @@ This repository is a demonstartion of how to create a github repository and prop
 
 im learning git 
 here are some git cmds
+add pull,push,commit ,log
